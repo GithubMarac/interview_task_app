@@ -1,6 +1,9 @@
-# interview_task_app
+# Running app
 
-A new Flutter project.
+Instalacija vscode i flutter sdk
+Instalirajte ovisnosti: flutter pub get
+Pokrenite aplikaciju: flutter run -d chrome --web-browser-flag "--disable-web-security"
+
 
 ## Getting Started
 
